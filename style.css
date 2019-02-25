@@ -1,0 +1,110 @@
+body{
+	background-color: black;
+}
+.atas {
+  background-image: url(http://www.sompaisoscatalans.cat/simage/164/1641191/wallpaper-keren-untuk-laptop.jpg);
+  width: 1130px;
+  padding: 100px;
+  border: none;
+  margin-left: : 10px;
+  margin-right: 5px;
+  font-family: "arial";
+  color:white;
+  font-size: 25px;
+}
+
+img{
+  margin: 100px;
+  border: none;
+  float: left;
+  width: 350px;
+  height: 380px;
+}
+
+div#desc {
+  padding: 150px;
+  padding-bottom: 25px;
+  margin-left: : 0px;
+  text-align: left;
+  color:white;
+  font-size: 32PX;
+  font-family: "arial"
+}
+
+div.isi {
+  padding: 5px;
+  text-align: left;
+  color:white;
+  font-size: 20PX;
+  font-family: "arial"
+}
+
+div#org {
+  padding: 25px;
+  text-align: left;
+  color:white;
+  font-size: 32PX;
+  font-family: "arial"
+}
+
+div.orgisi {
+  padding: 10px;
+  text-align: left;
+  color:white;
+  font-size: 20PX;
+  font-family: "arial"
+}
+
+div.orgisi2 {
+  padding: 10px;
+  text-align: left;
+  color:white;
+  font-size: 20PX;
+  font-family: "arial"
+}
+
+div#contact {
+  padding-top: 5%;
+  padding-bottom: 25%;
+  padding-right: 60%;
+  padding-left: 7%;
+  text-align: left;
+  color:white;
+  font-size: 20PX;
+  font-family: "arial";
+  float: left;	
+}
+
+nav{
+ display: flex;
+ justify-content: flex-end;
+ align-items: center;
+ position: fixed;
+ width: 100%;
+ height: 70px;
+ background-color: black;
+ font-family: "arial";
+}
+ul{
+ display: flex;
+ margin-right: 30px;
+ list-style: none;
+ font-family: "arial";
+}
+li a{
+ margin: 0;
+ margin-left: 40px;
+ color: white;
+ list-style: none;
+ text-decoration: none;
+ font-family: "arial";
+}
+
+li{
+ margin: 0;
+ margin-left: 40px;
+ color: black;
+ list-style: none;
+ font-family: "arial";
+}
+
